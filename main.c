@@ -1,2 +1,2 @@
-#include stdio.h
-printf ("hello world")
+#include <stdio.h>
+printf ("hello world!")
